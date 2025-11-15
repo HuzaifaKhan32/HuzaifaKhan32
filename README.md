@@ -1,4 +1,4 @@
-# <img src="https://i.imgur.com/YOUR_IMAGE_URL.jpg" width="100%" alt="Huzaifa Nadeem Banner"/>
+# <img src="[https://i.imgur.com/YOUR_IMAGE_URL.jpg](https://github.com/user-attachments/assets/c21eeea6-1ca4-4221-943c-0b1a8dbd1bf2)" width="100%" alt="Huzaifa Nadeem Banner"/>
 
 <div align="center">
   <img src="https://i.imgur.com/YOUR_PHOTO.jpg" width="200" style="border-radius: 50%; border: 4px solid #fff;"/>
