@@ -1,5 +1,11 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/c21eeea6-1ca4-4221-943c-0b1a8dbd1bf2" width="200" style="border-radius: 50%; border: 4px solid #fff;"/>
+  
+  <p>
+    <a href="https://huzaifa-nadeem-intro.vercel.app" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    </a>
+  </p>
 </div>
 
 <h1 align="center">
@@ -110,6 +116,7 @@ Creating responsive, performant web applications with Next.js, focusing on user 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huzaifa-khan)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Huzaifa_Ndeem)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hzaifa_nadeem)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://huzaifa-nadeem-intro.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huzaifakhan0856551@gmail.com)
 
 </div>
